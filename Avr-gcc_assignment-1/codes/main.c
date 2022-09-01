@@ -19,11 +19,6 @@ int main (void)
 
      PORTD=(Q << 2);
 
-     
-	
-  
-
-  
-  return 0;
+      return 0;
 
 }
